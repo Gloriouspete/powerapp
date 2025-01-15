@@ -1,0 +1,7 @@
+phone-call feather
+wifi ionicons
+book-education materialcommunity
+sms fontawesome5
+light-bulb entypo
+users fontawesome5tv fontawesome
+soccer-ball-o fontawesome

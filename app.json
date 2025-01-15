@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "Powerpaybill",
+    "slug": "powerpaycosmas",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/images/spins.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/spins.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.gloriouspete.powerpaybill"
+    },
+    "android": {
+      "versionCode": 32,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/spins.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.gloriouspete.powerpaybill"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "aa67210c-d8a3-405a-adb5-727a2d498b5c"
+      }
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
